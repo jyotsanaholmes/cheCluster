@@ -23,7 +23,7 @@ spec:
     devWorkspace: {}
     devfileRegistry: {}
     imagePuller:
-      enable: true
+      enable: false
       spec: {}
     metrics:
       enable: true

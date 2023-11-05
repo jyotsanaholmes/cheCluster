@@ -11,7 +11,7 @@ metadata:
   - dashboard.clusterpermissions.finalizers.che.eclipse.org
   - container-build.finalizers.che.eclipse.org
   - consolelink.finalizers.che.eclipse.org
-  generation: 2
+  generation: 1
   name: devspaces
   namespace: openshift-devspaces
 spec:
